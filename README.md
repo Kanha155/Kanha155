@@ -5,7 +5,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Kanha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanha-gouda-112772357/)](https://www.linkedin.com/in/kanha-gouda-112772357/)
 [![Gmail Badge](https://img.shields.io/badge/-Kanha115lax@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Kanha115lax@gmail.com)](mailto:Kanha115lax@gmail.com) 
 
-My name is Kanha, and I'm an IGIT trained data analyst interested in all things Python & Data Science!
+- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
+- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+
+- 💻 **Things I love**
+- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Backend Development ✍️
+- Machine Learning 🧐
+- Data Science 😬
 
 - 🔭 I’m currently working on [streamlit](https://chai-app-kqrugkmkiicy98yejgyllh.streamlit.app/), building an AI-powered companion for social media creators.
 - 🌱 I’m recently built a program to help you choose your favorite programming language, check it out [here](https://programminglanguagegit-d6f4vpqx9rs9qwfrczcnur.streamlit.app/)
