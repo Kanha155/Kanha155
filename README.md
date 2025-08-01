@@ -2,6 +2,8 @@
 
 
 ### Hi, I'm Kanha!
+[![Linkedin Badge](https://img.shields.io/badge/-Kanha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanha-gouda-112772357/)](https://www.linkedin.com/in/kanha-gouda-112772357/)
+[![Gmail Badge](https://img.shields.io/badge/-Kanha115lax@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Kanha115lax@gmail.com)](mailto:Kanha115lax@gmail.com) 
 
 My name is Kanha, and I'm an IGIT trained data analyst interested in all things Python & Data Science!
 
