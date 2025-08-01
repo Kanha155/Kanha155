@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Kanha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanha-gouda-112772357/)](https://www.linkedin.com/in/kanha-gouda-112772357/)
 [![Gmail Badge](https://img.shields.io/badge/-Kanha115lax@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Kanha115lax@gmail.com)](mailto:Kanha115lax@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://portfolio-octa-repo.netlify.app/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 - 💻 **Things I love**
@@ -34,8 +34,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kanha155&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Kanha155&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
