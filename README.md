@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Kanha, and I'm an IGIT trained data analyst interested in all things Python & Data Science!
+
+- 🔭 I’m currently working on [streamlit](https://chai-app-kqrugkmkiicy98yejgyllh.streamlit.app/), building an AI-powered companion for social media creators.
+- 🌱 I’m recently built a program to help you choose your favorite programming language, check it out [here](https://programminglanguagegit-d6f4vpqx9rs9qwfrczcnur.streamlit.app/)
+- 👯 I’m looking to collaborate on YouTube videos!
+  - Send ideas to bussinesstips4kanha@gmail.com
 
 <!--
 **Kanha155/Kanha155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
