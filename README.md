@@ -1,3 +1,6 @@
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+
+
 ### Hi, I'm Kanha!
 
 My name is Kanha, and I'm an IGIT trained data analyst interested in all things Python & Data Science!
