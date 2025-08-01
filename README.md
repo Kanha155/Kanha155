@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My Name is Kanha
 
 My name is Kanha, and I'm an IGIT trained data analyst interested in all things Python & Data Science!
 
