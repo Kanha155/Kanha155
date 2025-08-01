@@ -1,4 +1,4 @@
-### Kanha Gouda
+### Hi, I'm Kanha!
 
 My name is Kanha, and I'm an IGIT trained data analyst interested in all things Python & Data Science!
 
