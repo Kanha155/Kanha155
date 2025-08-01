@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Kanha's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanha155)](https://github.com/anuraghazra/github-readme-stats)
-
+![Kanha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanha155&show_icons=true&theme=transparent)
