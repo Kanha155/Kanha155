@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
 
-### Hi, I'm Kanha!
+# 💫 Hi 👋, I'm Kanha Gouda
 [![Linkedin Badge](https://img.shields.io/badge/-Kanha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanha-gouda-112772357/)](https://www.linkedin.com/in/kanha-gouda-112772357/)
 [![Gmail Badge](https://img.shields.io/badge/-Kanha115lax@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Kanha115lax@gmail.com)](mailto:Kanha115lax@gmail.com) 
 
